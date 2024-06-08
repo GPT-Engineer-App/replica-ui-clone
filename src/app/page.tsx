@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import logo from "../public/logo.png"; // Assuming the logo image is saved in the public folder
+import logo from "../../public/logo.png"; // Adjusted the path to the logo image
 import "./globals.css";
 
 export default function Home() {
